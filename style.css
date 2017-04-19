@@ -1,0 +1,43 @@
+body {
+	background-image: url("bgimage1.jpg");
+}
+	
+h1 {
+	text-align: center;
+}
+
+nav ul {
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+
+li {
+	display: inline;
+	margin: 20px;
+	color: white;
+	font-weight: bold;
+}
+
+#logop {
+	margin: 10px;
+}
+
+
+.pice1 {
+	display: block;
+	background-color: rgba(0, 0, 0, .3);
+	float: left;
+	margin: 25px;
+	margin-left: 325px
+}
+
+#picee {
+		margin-top: 15px;
+		display: block;
+		background-color: rgba(255, 255, 255, .7);
+		overflow: hidden;
+}
+
+
